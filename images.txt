@@ -1,2 +1,7 @@
 hardillb/traefik-avahi-helper:latest
 traefik:v3.0
+php:8.0
+php:7.4
+php:5.6
+nginx:latest
+mysql:5.7
