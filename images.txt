@@ -1,1 +1,2 @@
 hardillb/traefik-avahi-helper:latest
+traefik:v3.0
