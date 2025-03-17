@@ -9,3 +9,4 @@ filebrowser/filebrowser:latest
 soulteary/certs-maker:v3.2.0
 zguitao/php74-nginx
 zeronews/zeronews:latest
+starryfrp/frpc:latest
