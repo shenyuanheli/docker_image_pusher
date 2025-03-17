@@ -1,8 +1,11 @@
-hardillb/traefik-avahi-helper:latest
 traefik:v3.0
-php:latest
-nginx:latest
+hardillb/traefik-avahi-helper:latest
+php:5.6
+php:7.4
+php:8.0
+php:8.4
 mysql:5.7
+nginx:latest
 xhofe/alist:latest
 filebrowser/filebrowser:latest
 soulteary/certs-maker:v3.2.0
