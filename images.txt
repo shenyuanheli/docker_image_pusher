@@ -3,8 +3,9 @@ traefik:v3.0
 php:latest
 nginx:latest
 mysql:5.7
-portainer/portainer-ce
 xhofe/alist:latest
 filebrowser/filebrowser:latest
 soulteary/certs-maker:v3.2.0
-starryfrp/frpc:latest
+b3log/siyuan:latest
+portainer/portainer-ce:latest
+easymock/easymock:latest
