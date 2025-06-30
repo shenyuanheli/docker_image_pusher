@@ -12,3 +12,4 @@ soulteary/certs-maker:v3.2.0
 b3log/siyuan:latest
 portainer/portainer-ce:latest
 easymock/easymock:latest
+starryfrp/frpc:22.5.13
