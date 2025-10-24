@@ -13,3 +13,5 @@ b3log/siyuan:latest
 portainer/portainer-ce:latest
 easymock/easymock:latest
 starryfrp/frpc:22.5.13
+blinkospace/blinko:1.6.4
+postgres:14
